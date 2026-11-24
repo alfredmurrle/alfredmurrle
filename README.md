@@ -1,4 +1,4 @@
-### Senior Feature Film VFX Compositor & Nuke ML Tool Developer
+### Feature Film VFX Senior/Lead/Compositing Supervisor & Nuke ML Tool Developer
 
 Over 30 years of experience in feature film visual effects compositing. Currently developing open-source, production-grade AI/ML pipeline tools for **Foundry NukeX 17** with a focus on 32-bit float EXR/ACES 2.0 workflows, PySide6 interfaces, and out-of-process CUDA inference.
 
